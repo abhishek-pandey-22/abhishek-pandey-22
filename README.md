@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abhishek-pandey-22
-- 👀 I’m interested in ...development stuff
+- 👀 I’m interested in ...Problem Solving and development .
 - 🌱 I’m currently learning ...full stack engineer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...abhishek.pandey.22mountblue.tech
+- 📫 How to reach me ...@abhiprd219 -- instagram
 
 <!---
 abhishek-pandey-22/abhishek-pandey-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
